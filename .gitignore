@@ -1,0 +1,14 @@
+# Ignore all PDF files
+*.pdf
+
+# Ignore output.md file
+output.md
+
+# Ignore virtual environment
+venv/
+
+# Common system files
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
